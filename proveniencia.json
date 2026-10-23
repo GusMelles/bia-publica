@@ -1,0 +1,26 @@
+{
+  "versions": [
+    {
+      "date": "2026-10-22",
+      "source_url": "https://pensecomia.com/var/prompt.txt",
+      "bytes": 11898,
+      "sha256": "9fabf0e68c861bab633011cc4426e32a410c3b816b796c9689f346472c6f85cb",
+      "paths": [
+        "versoes/2026-10-22/index.html",
+        "versoes/2026-10-22/prompt.txt",
+        "versoes/2026-10-22/prompt.md"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "source_url": "https://bia.gusmelles.chatgpt.site/",
+      "bytes": 3254,
+      "sha256": "a61fbf30a49ed6f25da80cf111e6c7a6ac65dabdd35cf706fbd553b8f8296be2",
+      "paths": [
+        "versoes/2026-10-23/index.html",
+        "versoes/2026-10-23/prompt.txt",
+        "versoes/2026-10-23/prompt.md"
+      ]
+    }
+  ]
+}
